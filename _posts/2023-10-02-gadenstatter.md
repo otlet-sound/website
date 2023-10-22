@@ -2,9 +2,11 @@
 title: Clemens Gadenstätter - Studies for a Portrait for Electric Guitar
 author: dzoladz
 date: 2023-10-02 00:34:00 +0800
-categories: [Composers, Scores]
+categories: [Composers, Notations]
 tags: [guitar]
 ---
+
+[Clemens Gadenstätter](http://www.clemensgadenstaetter.eu/)
 
 [Yaron Deutsch](https://yarondeutsch.com/) on guitar
 
