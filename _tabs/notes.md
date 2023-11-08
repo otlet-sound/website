@@ -8,7 +8,25 @@ Running notes for the moment
 
 ## EQUIPMENT
 
-[Godin Guitars](https://godinguitars.com/)
+[Godin Guitars](https://godinguitars.com)
+Hondoras MAHOGANY NECK-
+ERGOCUT (rolled) EBONY FiNGERBOARD- 
+symetrical 
+16" ( 4 0 6 MM) FINGERBOARD RADIUS-
+2 5 1/2' ( 6 4 7 . 5 MM) SCALE-
+1 11/16" (43 MM) NUT WIDTH-
+
+
+[Mooradian Custom Shop](https://www.mooradian.com)
+[LM Leather Products Guitar Straps](https://lm-products.myshopify.com/)
+[Smith Pro Formula Guitar Polish](http://www.kensmithbasses.com/parts-accessories/guitar-polish/)
+[Hercules Stands](http://herculesstands.com/us/)
+[Schaller S-Lock Strap Pins](https://schaller.info/en)
+[Graphteach Nuts](https://graphtech.com/collections/tusq-nuts-guitar)
+[RMC Poly-Drive - RMC Acoustic System](https://www.rmcpickup.com/polydrivei.html)
+RMC's unique acoustic pickups feature individual sensors for each string. This allows perfect string-to-string balance and virtually no cross-talk so each note speaks clear and true. Also, the individual RMC sensors provide exceptionally accurate MIDI tracking.
+[Stewart-MacDonald](https://www.stewmac.com/)
+[FU Tone Noiseless Whammy Springs](https://www.fu-tone.com/)
 
 ### DEFINITIONS
 
