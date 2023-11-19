@@ -25,3 +25,11 @@ _Image Caption_
 
 ![](/assets/img/rolled-edge-diagram.png)
 _Image Caption_
+
+## Godin xtSA Configuration
+
+![](/assets/img/godin-xtsa-config.png)
+
+## Godin xtSA Manual
+
+<embed src="/assets/pdf/godin-xtsa-manual.pdf" type="application/pdf" width="100%" height="600px" />
